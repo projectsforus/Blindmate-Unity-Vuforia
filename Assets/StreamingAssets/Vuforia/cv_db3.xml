@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nadec" size="0.050000 0.109625" />
+    <ImageTarget name="orangeo" size="0.050000 0.047115" />
+    <ImageTarget name="orange" size="0.050000 0.050000" />
+    <ImageTarget name="mandmsm" size="0.100000 0.100000" />
+    <ImageTarget name="mandms" size="0.100000 0.049786" />
+    <ImageTarget name="lays" size="0.100000 0.143229" />
+    <ImageTarget name="kirik" size="0.150000 0.150000" />
+    <ImageTarget name="kiri" size="0.150000 0.150000" />
+    <ImageTarget name="cocacolac" size="0.050000 0.050000" />
+    <ImageTarget name="cocacola" size="0.050000 0.050000" />
+    <ImageTarget name="bananab" size="20.000000 20.000000" />
+    <ImageTarget name="banana" size="20.000000 20.000000" />
+  </Tracking>
+</QCARConfig>

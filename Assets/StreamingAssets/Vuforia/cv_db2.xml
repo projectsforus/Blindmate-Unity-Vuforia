@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sun_Top3" size="0.050000 0.069077" />
+    <ImageTarget name="Nadec_Milk2" size="0.070000 0.153271" />
+    <ImageTarget name="Lays" size="0.150000 0.229299" />
+    <ImageTarget name="Kinder_Bueno" size="0.150000 0.062500" />
+    <ImageTarget name="Almatai_Yogert" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
